@@ -1,3 +1,3 @@
-# Mac-Testing
+# Employer Direct Healthcare
 
-For testing Mac deployment at EDHC
+For testing deployment of branding for Macs & autopilot with public URLs
